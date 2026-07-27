@@ -57,7 +57,7 @@ Currently, I'm focused on building a strong foundation in programming while crea
 ## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: your-email@example.com
+- Email: frr.anikett@gmail.com
 
 ---
 
