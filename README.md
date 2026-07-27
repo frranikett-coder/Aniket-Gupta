@@ -56,7 +56,7 @@ Currently, I'm focused on building a strong foundation in programming while crea
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: www.linkedin.com/in/aniket-gupta-ai
 - Email: frr.anikett@gmail.com
 
 ---
